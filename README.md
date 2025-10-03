@@ -16,8 +16,6 @@ O Jogo da Onça é um jogo de tabuleiro assimétrico para dois jogadores, onde:
 
 O objetivo da Onça é **capturar 5 Cachorros**, enquanto o objetivo dos Cachorros é **encurralar a Onça**, deixando-a sem movimentos válidos.
 
-![Gameplay do Jogo da Onça](imagens/Tabuleiro_Tabuleiro_Frente.png)  
-*Substitua a imagem acima por um screenshot real do seu jogo em ação!*
 
 ---
 
