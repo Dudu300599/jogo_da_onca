@@ -1,0 +1,207 @@
+===== RESULTADO: Limite de Turnos =====
+
+===== HISTÓRICO DE JOGADAS =====
+Turno 1: Onça: 12 -> 18
+  Tempo: 0.0142s | Nós avaliados: 0
+  Estado do Tabuleiro: [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, -1, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+Turno 2: Cachorros: 8 -> 12
+  Tempo: 0.0136s | Nós avaliados: 0
+  Estado do Tabuleiro: [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 0, 1, 1, 0, 0, 0, -1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+Turno 3: Onça: 18 -> 22
+  Tempo: 0.0278s | Nós avaliados: 0
+  Estado do Tabuleiro: [1, 1, 1, 1, 1, 1, 1, 1, 0, 1, 1, 1, 1, 1, 1, 0, 0, 0, -1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+Turno 4: Cachorros: 12 -> 16
+  Tempo: 0.0358s | Nós avaliados: 0
+  Estado do Tabuleiro: [1, 1, 1, 1, 1, 1, 1, 1, 0, 1, 1, 1, 1, 1, 1, 0, 0, 0, 0, 0, 0, 0, -1, 0, 0, 0, 0, 0, 0, 0, 0]
+
+Turno 5: Onça: 22 -> 25
+  Tempo: 0.0307s | Nós avaliados: 0
+  Estado do Tabuleiro: [1, 1, 1, 1, 1, 1, 1, 1, 0, 1, 1, 1, 0, 1, 1, 0, 1, 0, 0, 0, 0, 0, -1, 0, 0, 0, 0, 0, 0, 0, 0]
+
+Turno 6: Cachorros: 3 -> 8
+  Tempo: 0.0496s | Nós avaliados: 0
+  Estado do Tabuleiro: [1, 1, 1, 1, 1, 1, 1, 1, 0, 1, 1, 1, 0, 1, 1, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, -1, 0, 0, 0, 0, 0]
+
+Turno 7: Onça: 25 -> 26
+  Tempo: 0.0143s | Nós avaliados: 0
+  Estado do Tabuleiro: [1, 1, 1, 0, 1, 1, 1, 1, 1, 1, 1, 1, 0, 1, 1, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, -1, 0, 0, 0, 0, 0]
+
+Turno 8: Cachorros: 13 -> 12
+  Tempo: 0.0247s | Nós avaliados: 0
+  Estado do Tabuleiro: [1, 1, 1, 0, 1, 1, 1, 1, 1, 1, 1, 1, 0, 1, 1, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, -1, 0, 0, 0, 0]
+
+Turno 9: Onça: 26 -> 22
+  Tempo: 0.0182s | Nós avaliados: 0
+  Estado do Tabuleiro: [1, 1, 1, 0, 1, 1, 1, 1, 1, 1, 1, 1, 1, 0, 1, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, -1, 0, 0, 0, 0]
+
+Turno 10: Cachorros: 10 -> 15
+  Tempo: 0.0270s | Nós avaliados: 0
+  Estado do Tabuleiro: [1, 1, 1, 0, 1, 1, 1, 1, 1, 1, 1, 1, 1, 0, 1, 0, 1, 0, 0, 0, 0, 0, -1, 0, 0, 0, 0, 0, 0, 0, 0]
+
+Turno 11: Onça: 22 -> 23
+  Tempo: 0.0225s | Nós avaliados: 0
+  Estado do Tabuleiro: [1, 1, 1, 0, 1, 1, 1, 1, 1, 1, 0, 1, 1, 0, 1, 1, 1, 0, 0, 0, 0, 0, -1, 0, 0, 0, 0, 0, 0, 0, 0]
+
+Turno 12: Cachorros: 15 -> 10
+  Tempo: 0.0307s | Nós avaliados: 0
+  Estado do Tabuleiro: [1, 1, 1, 0, 1, 1, 1, 1, 1, 1, 0, 1, 1, 0, 1, 1, 1, 0, 0, 0, 0, 0, 0, -1, 0, 0, 0, 0, 0, 0, 0]
+
+Turno 13: Onça: 23 -> 22
+  Tempo: 0.0142s | Nós avaliados: 0
+  Estado do Tabuleiro: [1, 1, 1, 0, 1, 1, 1, 1, 1, 1, 1, 1, 1, 0, 1, 0, 1, 0, 0, 0, 0, 0, 0, -1, 0, 0, 0, 0, 0, 0, 0]
+
+Turno 14: Cachorros: 16 -> 21
+  Tempo: 0.0281s | Nós avaliados: 0
+  Estado do Tabuleiro: [1, 1, 1, 0, 1, 1, 1, 1, 1, 1, 1, 1, 1, 0, 1, 0, 1, 0, 0, 0, 0, 0, -1, 0, 0, 0, 0, 0, 0, 0, 0]
+
+Turno 15: Onça: 22 -> 17
+  Tempo: 0.0158s | Nós avaliados: 0
+  Estado do Tabuleiro: [1, 1, 1, 0, 1, 1, 1, 1, 1, 1, 1, 1, 1, 0, 1, 0, 0, 0, 0, 0, 0, 1, -1, 0, 0, 0, 0, 0, 0, 0, 0]
+
+Turno 16: Cachorros: 10 -> 16
+  Tempo: 0.0122s | Nós avaliados: 0
+  Estado do Tabuleiro: [1, 1, 1, 0, 1, 1, 1, 1, 1, 1, 1, 1, 1, 0, 1, 0, 0, -1, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+Turno 17: Onça: 17 -> 18
+  Tempo: 0.0192s | Nós avaliados: 0
+  Estado do Tabuleiro: [1, 1, 1, 0, 1, 1, 1, 1, 1, 1, 0, 1, 1, 0, 1, 0, 1, -1, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+Turno 18: Cachorros: 16 -> 20
+  Tempo: 0.0215s | Nós avaliados: 0
+  Estado do Tabuleiro: [1, 1, 1, 0, 1, 1, 1, 1, 1, 1, 0, 1, 1, 0, 1, 0, 1, 0, -1, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+Turno 19: Onça: 18 -> 17
+  Tempo: 0.0220s | Nós avaliados: 0
+  Estado do Tabuleiro: [1, 1, 1, 0, 1, 1, 1, 1, 1, 1, 0, 1, 1, 0, 1, 0, 0, 0, -1, 0, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+Turno 20: Cachorros: 11 -> 16
+  Tempo: 0.0148s | Nós avaliados: 0
+  Estado do Tabuleiro: [1, 1, 1, 0, 1, 1, 1, 1, 1, 1, 0, 1, 1, 0, 1, 0, 0, -1, 0, 0, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+Turno 21: Onça: 17 -> 18
+  Tempo: 0.0184s | Nós avaliados: 0
+  Estado do Tabuleiro: [1, 1, 1, 0, 1, 1, 1, 1, 1, 1, 0, 0, 1, 0, 1, 0, 1, -1, 0, 0, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+Turno 22: Cachorros: 2 -> 3
+  Tempo: 0.0305s | Nós avaliados: 0
+  Estado do Tabuleiro: [1, 1, 1, 0, 1, 1, 1, 1, 1, 1, 0, 0, 1, 0, 1, 0, 1, 0, -1, 0, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+Turno 23: Onça: 18 -> 17
+  Tempo: 0.0241s | Nós avaliados: 0
+  Estado do Tabuleiro: [1, 1, 0, 1, 1, 1, 1, 1, 1, 1, 0, 0, 1, 0, 1, 0, 1, 0, -1, 0, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+Turno 24: Cachorros: 14 -> 18
+  Tempo: 0.0181s | Nós avaliados: 0
+  Estado do Tabuleiro: [1, 1, 0, 1, 1, 1, 1, 1, 1, 1, 0, 0, 1, 0, 1, 0, 1, -1, 0, 0, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+Turno 25: Onça: 17 -> 22
+  Tempo: 0.0241s | Nós avaliados: 0
+  Estado do Tabuleiro: [1, 1, 0, 1, 1, 1, 1, 1, 1, 1, 0, 0, 1, 0, 0, 0, 1, -1, 1, 0, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+Turno 26: Cachorros: 6 -> 10
+  Tempo: 0.0424s | Nós avaliados: 0
+  Estado do Tabuleiro: [1, 1, 0, 1, 1, 1, 1, 1, 1, 1, 0, 0, 1, 0, 0, 0, 1, 0, 1, 0, 1, 1, -1, 0, 0, 0, 0, 0, 0, 0, 0]
+
+Turno 27: Onça: 22 -> 23
+  Tempo: 0.0335s | Nós avaliados: 0
+  Estado do Tabuleiro: [1, 1, 0, 1, 1, 1, 0, 1, 1, 1, 1, 0, 1, 0, 0, 0, 1, 0, 1, 0, 1, 1, -1, 0, 0, 0, 0, 0, 0, 0, 0]
+
+Turno 28: Cachorros: 18 -> 24
+  Tempo: 0.0632s | Nós avaliados: 0
+  Estado do Tabuleiro: [1, 1, 0, 1, 1, 1, 0, 1, 1, 1, 1, 0, 1, 0, 0, 0, 1, 0, 1, 0, 1, 1, 0, -1, 0, 0, 0, 0, 0, 0, 0]
+
+Turno 29: Onça: 23 -> 18
+  Tempo: 0.0254s | Nós avaliados: 0
+  Estado do Tabuleiro: [1, 1, 0, 1, 1, 1, 0, 1, 1, 1, 1, 0, 1, 0, 0, 0, 1, 0, 0, 0, 1, 1, 0, -1, 1, 0, 0, 0, 0, 0, 0]
+
+Turno 30: Cachorros: 24 -> 23
+  Tempo: 0.0552s | Nós avaliados: 0
+  Estado do Tabuleiro: [1, 1, 0, 1, 1, 1, 0, 1, 1, 1, 1, 0, 1, 0, 0, 0, 1, 0, -1, 0, 1, 1, 0, 0, 1, 0, 0, 0, 0, 0, 0]
+
+Turno 31: Onça: 18 -> 24
+  Tempo: 0.0420s | Nós avaliados: 0
+  Estado do Tabuleiro: [1, 1, 0, 1, 1, 1, 0, 1, 1, 1, 1, 0, 1, 0, 0, 0, 1, 0, -1, 0, 1, 1, 0, 1, 0, 0, 0, 0, 0, 0, 0]
+
+Turno 32: Cachorros: 16 -> 17
+  Tempo: 0.0521s | Nós avaliados: 0
+  Estado do Tabuleiro: [1, 1, 0, 1, 1, 1, 0, 1, 1, 1, 1, 0, 1, 0, 0, 0, 1, 0, 0, 0, 1, 1, 0, 1, -1, 0, 0, 0, 0, 0, 0]
+
+Turno 33: Onça: 24 -> 18
+  Tempo: 0.0192s | Nós avaliados: 0
+  Estado do Tabuleiro: [1, 1, 0, 1, 1, 1, 0, 1, 1, 1, 1, 0, 1, 0, 0, 0, 0, 1, 0, 0, 1, 1, 0, 1, -1, 0, 0, 0, 0, 0, 0]
+
+Turno 34: Cachorros: 20 -> 15
+  Tempo: 0.0594s | Nós avaliados: 0
+  Estado do Tabuleiro: [1, 1, 0, 1, 1, 1, 0, 1, 1, 1, 1, 0, 1, 0, 0, 0, 0, 1, -1, 0, 1, 1, 0, 1, 0, 0, 0, 0, 0, 0, 0]
+
+Turno 35: Onça: 18 -> 13
+  Tempo: 0.0461s | Nós avaliados: 0
+  Estado do Tabuleiro: [1, 1, 0, 1, 1, 1, 0, 1, 1, 1, 1, 0, 1, 0, 0, 1, 0, 1, -1, 0, 0, 1, 0, 1, 0, 0, 0, 0, 0, 0, 0]
+
+Turno 36: Cachorros: 12 -> 11
+  Tempo: 0.0324s | Nós avaliados: 0
+  Estado do Tabuleiro: [1, 1, 0, 1, 1, 1, 0, 1, 1, 1, 1, 0, 1, -1, 0, 1, 0, 1, 0, 0, 0, 1, 0, 1, 0, 0, 0, 0, 0, 0, 0]
+
+Turno 37: Onça: 13 -> 12
+  Tempo: 0.0222s | Nós avaliados: 0
+  Estado do Tabuleiro: [1, 1, 0, 1, 1, 1, 0, 1, 1, 1, 1, 1, 0, -1, 0, 1, 0, 1, 0, 0, 0, 1, 0, 1, 0, 0, 0, 0, 0, 0, 0]
+
+Turno 38: Cachorros: 1 -> 6
+  Tempo: 0.0220s | Nós avaliados: 0
+  Estado do Tabuleiro: [1, 1, 0, 1, 1, 1, 0, 1, 1, 1, 1, 1, -1, 0, 0, 1, 0, 1, 0, 0, 0, 1, 0, 1, 0, 0, 0, 0, 0, 0, 0]
+
+Turno 39: Onça: 12 -> 18
+  Tempo: 0.0305s | Nós avaliados: 0
+  Estado do Tabuleiro: [1, 0, 0, 1, 1, 1, 1, 1, 1, 1, 1, 1, -1, 0, 0, 1, 0, 1, 0, 0, 0, 1, 0, 1, 0, 0, 0, 0, 0, 0, 0]
+
+Turno 40: Cachorros: 21 -> 22
+  Tempo: 0.0581s | Nós avaliados: 0
+  Estado do Tabuleiro: [1, 0, 0, 1, 1, 1, 1, 1, 1, 1, 1, 1, 0, 0, 0, 1, 0, 1, -1, 0, 0, 1, 0, 1, 0, 0, 0, 0, 0, 0, 0]
+
+Turno 41: Onça: 18 -> 12
+  Tempo: 0.0280s | Nós avaliados: 0
+  Estado do Tabuleiro: [1, 0, 0, 1, 1, 1, 1, 1, 1, 1, 1, 1, 0, 0, 0, 1, 0, 1, -1, 0, 0, 0, 1, 1, 0, 0, 0, 0, 0, 0, 0]
+
+Turno 42: Cachorros: 8 -> 13
+  Tempo: 0.0262s | Nós avaliados: 0
+  Estado do Tabuleiro: [1, 0, 0, 1, 1, 1, 1, 1, 1, 1, 1, 1, -1, 0, 0, 1, 0, 1, 0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 0, 0, 0]
+
+Turno 43: Onça: 12 -> 18
+  Tempo: 0.0383s | Nós avaliados: 0
+  Estado do Tabuleiro: [1, 0, 0, 1, 1, 1, 1, 1, 0, 1, 1, 1, -1, 1, 0, 1, 0, 1, 0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 0, 0, 0]
+
+Turno 44: Cachorros: 6 -> 12
+  Tempo: 0.0859s | Nós avaliados: 0
+  Estado do Tabuleiro: [1, 0, 0, 1, 1, 1, 1, 1, 0, 1, 1, 1, 0, 1, 0, 1, 0, 1, -1, 0, 0, 0, 1, 1, 0, 0, 0, 0, 0, 0, 0]
+
+Turno 45: Onça: 18 -> 19
+  Tempo: 0.0362s | Nós avaliados: 0
+  Estado do Tabuleiro: [1, 0, 0, 1, 1, 1, 0, 1, 0, 1, 1, 1, 1, 1, 0, 1, 0, 1, -1, 0, 0, 0, 1, 1, 0, 0, 0, 0, 0, 0, 0]
+
+Turno 46: Cachorros: 23 -> 24
+  Tempo: 0.0615s | Nós avaliados: 0
+  Estado do Tabuleiro: [1, 0, 0, 1, 1, 1, 0, 1, 0, 1, 1, 1, 1, 1, 0, 1, 0, 1, 0, -1, 0, 0, 1, 1, 0, 0, 0, 0, 0, 0, 0]
+
+Turno 47: Onça: 19 -> 18
+  Tempo: 0.0230s | Nós avaliados: 0
+  Estado do Tabuleiro: [1, 0, 0, 1, 1, 1, 0, 1, 0, 1, 1, 1, 1, 1, 0, 1, 0, 1, 0, -1, 0, 0, 1, 0, 1, 0, 0, 0, 0, 0, 0]
+
+Turno 48: Cachorros: 22 -> 26
+  Tempo: 0.0704s | Nós avaliados: 0
+  Estado do Tabuleiro: [1, 0, 0, 1, 1, 1, 0, 1, 0, 1, 1, 1, 1, 1, 0, 1, 0, 1, -1, 0, 0, 0, 1, 0, 1, 0, 0, 0, 0, 0, 0]
+
+Turno 49: Onça: 18 -> 16
+  Tempo: 0.0674s | Nós avaliados: 0
+  Estado do Tabuleiro: [1, 0, 0, 1, 1, 1, 0, 1, 0, 1, 1, 1, 1, 1, 0, 1, 0, 1, -1, 0, 0, 0, 0, 0, 1, 0, 1, 0, 0, 0, 0]
+
+Turno 50: Cachorros: 3 -> 2
+  Tempo: 0.0620s | Nós avaliados: 0
+  Estado do Tabuleiro: [1, 0, 0, 1, 1, 1, 0, 1, 0, 1, 1, 1, 1, 1, 0, 1, -1, 0, 0, 0, 0, 0, 0, 0, 1, 0, 1, 0, 0, 0, 0]
+
+Turno 51: Onça: 16 -> 22
+  Tempo: 0.0383s | Nós avaliados: 0
+  Estado do Tabuleiro: [1, 0, 1, 0, 1, 1, 0, 1, 0, 1, 1, 1, 1, 1, 0, 1, -1, 0, 0, 0, 0, 0, 0, 0, 1, 0, 1, 0, 0, 0, 0]
+
